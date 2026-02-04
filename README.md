@@ -10,7 +10,7 @@ Focus: testing **what the user sees and interacts with**, not internal state.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 ```
 - React
 - TypeScript
